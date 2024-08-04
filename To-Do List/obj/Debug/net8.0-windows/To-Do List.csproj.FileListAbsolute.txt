@@ -1,0 +1,14 @@
+F:\C#\To-Do List\bin\Debug\net8.0-windows\To-Do List.exe
+F:\C#\To-Do List\bin\Debug\net8.0-windows\To-Do List.deps.json
+F:\C#\To-Do List\bin\Debug\net8.0-windows\To-Do List.runtimeconfig.json
+F:\C#\To-Do List\bin\Debug\net8.0-windows\To-Do List.dll
+F:\C#\To-Do List\bin\Debug\net8.0-windows\To-Do List.pdb
+F:\C#\To-Do List\obj\Debug\net8.0-windows\To-Do List.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\To-Do List\obj\Debug\net8.0-windows\To-Do List.AssemblyInfoInputs.cache
+F:\C#\To-Do List\obj\Debug\net8.0-windows\To-Do List.AssemblyInfo.cs
+F:\C#\To-Do List\obj\Debug\net8.0-windows\To-Do List.csproj.CoreCompileInputs.cache
+F:\C#\To-Do List\obj\Debug\net8.0-windows\To-Do List.dll
+F:\C#\To-Do List\obj\Debug\net8.0-windows\refint\To-Do List.dll
+F:\C#\To-Do List\obj\Debug\net8.0-windows\To-Do List.pdb
+F:\C#\To-Do List\obj\Debug\net8.0-windows\To-Do List.genruntimeconfig.cache
+F:\C#\To-Do List\obj\Debug\net8.0-windows\ref\To-Do List.dll
